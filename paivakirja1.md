@@ -30,3 +30,6 @@ Myös restore ja restore --staged eron ymmärtäminen on tärkeä tieto
 | git restore --staged noob.txt | poistaa tiedoston staging alueelta, mutta ei itse tiedostoa, tämä siis peruu add:äyksen |
 | git revert lehma.txt | revert ei toimi yksittäisiin tiedostoihin vain committeihin |
 | git revert 86e7f5b9ab8bcf | poistaa tämän commitin kokonaisuudessaan |
+| code hello.html | avaa hello.html koodieditorissa, jos sellainen on määritelty - mulla visual studio code |
+| git switch -c tyylit | luodaan uusi haara tyylit |
+| git merge tyylit --no-ff | yhdistää tyylit haaran nykyiseen haaraana käyttämättä fast forwardia |
