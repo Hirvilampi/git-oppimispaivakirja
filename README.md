@@ -5,13 +5,13 @@ Tekijä: Timo Lampinen
 ## Sisältö
 Tässä repositoriossa on oppimispäiväkirjatehtävät 1–3.
 
-Repositorion päiväkirjat on toteutettu jokainen omana markdown tiedostonaan.  
+Repositorion päiväkirjat on toteutettu jokainen omana markdown tiedostonaan.  Suorat linkit tässä:  
   
-paivakirja1.md  
-paivakirja2.md  
-paivakirja3.md  
+[Päiväkirja 1](paivakirja1.md)  
+[Päiväkirja 2](paivakirja2.md)  
+[Päiväkirja 3](paivakirja3.md)    
 
-Ne on myös yhdistetty tähän tiedostoon.   
+Ne on myös yhdistetty tähän tiedostoon alapuolelle kohtaan Oppimispäiväkirjat.   
 
 ## Oppimispäiväkirjat 
 
