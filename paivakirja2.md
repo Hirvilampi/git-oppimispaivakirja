@@ -2,7 +2,11 @@
 
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet, jotka vaikuttivat tehtävän suorittamiseen?__
 
-Kirjoita tähän vastauksesi
+Kaikki oli hyvin tuttua. itselleni selkästi helpointa on päästää irti.. eli tuhota yhdistettyjä haaroja. Ei siis vaikeaa komentojen kannalta vaan, jotenkin sellainen jatkuva luottamuksen puute siiten, että muutokset ovat tallessa.
+
+Tämä git remote set-url origin ... oli hyvä tieto, kun silloin tällöin tulee kirjoitettua väärin. Sormet toimivat nopeammin kuin ajatus.
+
+git remote -v on myös uusi ja hyvä tieto.
 
 ## Osiossa käyttämäni Git-komennot
 
