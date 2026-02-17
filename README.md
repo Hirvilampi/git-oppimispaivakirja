@@ -5,15 +5,19 @@ Tekijä: Timo Lampinen
 ## Sisältö
 Tässä repositoriossa on oppimispäiväkirjatehtävät 1–3.
 
-Repositorion päiväkirjat on toteutettu jokainen omana markdown tiedostonaan. 
-paivakirja1.md
-paivakirja2.md
-paivakirja3.md
+Repositorion päiväkirjat on toteutettu jokainen omana markdown tiedostonaan.  
+  
+paivakirja1.md  
+paivakirja2.md  
+paivakirja3.md  
 
+Ne on myös yhdistetty tähän tiedostoon.   
 
 ## Oppimispäiväkirjat 
 
-# Paivakirja 1
+Kaikki oppimispäiväkirjat.  
+
+# Päiväkirja 1
 # Oppimispäiväkirja: Paikallinen git
 
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet?__
@@ -52,12 +56,17 @@ Myös restore ja restore --staged eron ymmärtäminen on tärkeä tieto
 | git merge tyylit --no-ff | yhdistää tyylit haaran nykyiseen haaraana käyttämättä fast forwardia |
 | git tag harjoitus 4 | lisätään tagi viimeisen commitin loppuun |  
 
-# Paivakirja 2
+# Päiväkirja 2
 # Oppimispäiväkirja: Hajautettu git
 
-__Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet, jotka vaikuttivat tehtävän suorittamiseen?__
+__Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet, jotka vaikuttivat tehtävän suorittamiseen?__  
 
-Kirjoita tähän vastauksesi
+Kaikki oli hyvin tuttua. itselleni selkästi helpointa on päästää irti.. eli tuhota yhdistettyjä haaroja. Ei siis vaikeaa komentojen kannalta vaan, jotenkin sellainen jatkuva luottamuksen puute siiten, että muutokset ovat tallessa.
+
+Tämä git remote set-url origin ... oli hyvä tieto, kun silloin tällöin tulee kirjoitettua väärin. Sormet toimivat nopeammin kuin ajatus.
+
+git remote -v on myös uusi ja hyvä tieto.  
+
 
 ## Osiossa käyttämäni Git-komennot
 
@@ -76,10 +85,10 @@ Kirjoita tähän vastauksesi
 | git pull | haki README.MD tiedoston master haaraan |
 | git branch | näkyy vain master ja tyylit. Head detached poistui samalla |
 | git commit -m "saatiin loppuun" | kommitoidaan muutokset |
-| git tag harjoitus5 | lisää viimeisimpään committiin tag:n harjoitus5 |
+| git tag harjoitus5 | lisää viimeisimpään committiin tag:n harjoitus5 |  
 
 
-# Paivakirja 3
+# Päiväkirja 3
 # Oppimispäiväkirja: Git projektissa
 
 __Mitä hyötyä voisi olla versionhallinnasta, jos kehität projektia yksin?__
